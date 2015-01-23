@@ -1,0 +1,31 @@
+Basel U.
+Bern U.
+CRPP, Lausanne
+Ecole Polytechnique, Lausanne
+EPFL-IPEQ, Lausanne
+EPFL-ISIC, Lausanne
+ETH, Zurich (main)
+Fribourg U.
+Geneva Observ.
+Geneva U.
+Geneva, Cantonal Hospital
+Geneva, U. Medical Ctr.
+IPT, Lausanne
+ISDC, Versoix
+ISSI, Bern
+ITS, Lausanne
+LASTRO Observ.
+Lausanne U.
+Lausanne, IRRMA
+LPHE, Lausanne
+PSI, SLS
+PSI, Villigen
+U. Bern (main)
+U. Bern, AEC
+U. Geneva (main)
+U. Zurich (main)
+World Lab, Lausanne
+Zurich U.
+Zurich, CQP
+Zurich, ETH
+Zurich-Irchel U.
