@@ -1,3 +1,8 @@
+[![Travis](http://img.shields.io/travis/ccarrubba/example/tree/master/INFN/Scoap3withAPI/master.png)](https://travis-ci.org//tree/master/INFN/Scoap3withAPI)
+
+
+
+
 /** The MIT License (MIT)
 *
 * Copyright (c) 2014 INFN Division of Catania
