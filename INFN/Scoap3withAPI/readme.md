@@ -1,5 +1,4 @@
-[![Travis](http://img.shields.io/travis/ccarrubba/example/INFN/Scoap3withAPI/master.png)](https://travis-ci.org/ccarrubba/example/INFN/Scoap3withAPI)
-
+[![Travis](http://img.shields.io/travis/example/INFN/Scoap3withAPI/master.png)](https://travis-ci.org/example/INFN/Scoap3withAPI)
 
 
 
